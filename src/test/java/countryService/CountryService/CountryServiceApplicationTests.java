@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class CountryServiceApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void contextTestLoads() {
 	}
 	//'123'
 
